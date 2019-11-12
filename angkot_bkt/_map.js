@@ -1,5 +1,5 @@
         var map;
-        //        var server = "http://localhost/html2/angkot_bkt";
+        //        var server = "http://52.163.81.157/angkot_tb/angkot_bkt/";
         var server = ipServerAngkot;
         var cekRadiusStatus = "off"; //RADIUS
         var circles = []; //RADIUS
